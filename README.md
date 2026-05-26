@@ -4,8 +4,8 @@ I'm a senior at Rutgers University–New Brunswick studying Data Science (minors
 
 - 🔭 I'm currently working on forecasting and data science projects
 - 🌱 I'm learning time series forecasting, machine learning, and financial analytics
-😄 Pronouns: he/him/his
-⚡ Fun fact: I love playing table tennis and badminton!
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I love playing table tennis and badminton!
 - 📫 How to reach me: duythuccao@outlook.com
 
 ---
