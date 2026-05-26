@@ -1,6 +1,6 @@
 # Hello there 👋 My name is Thuc Cao
 
-I'm a senior at Rutgers University–New Brunswick studying Data Science (minors in Economics & Statistics)
+I'm a senior at Rutgers University–New Brunswick studying Data Science (minors in Economics & Statistics)!
 
 - 🔭 I'm currently working on forecasting and data science projects
 - 🌱 I'm learning time series forecasting, machine learning, and financial analytics
